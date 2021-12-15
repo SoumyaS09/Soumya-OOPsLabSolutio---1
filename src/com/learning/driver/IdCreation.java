@@ -19,7 +19,8 @@ public class IdCreation {
 		
 		System.out.println("Please Enter your last Name : ");
 		lastName = scanner.nextLine();
-
+		
+		int option;
 		System.out.println("Please select your department ");
 		System.out.println("1. Technical");
 		System.out.println("2. Admin");
